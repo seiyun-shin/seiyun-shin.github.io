@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seiyunshin.github.io/sitemap.xml
+Sitemap: https://seiyun-shin.github.io/sitemap.xml
