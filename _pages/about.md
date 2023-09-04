@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ece.illinois.edu/'>Electrical and Computer Engineering</a>,
+subtitle: <a href='https://ece.illinois.edu/'>Electrical and Computer Engineering</a>, <a href='https://illinois.edu'>UIUC</a>,
 
 profile:
   align: right
