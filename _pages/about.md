@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://ece.illinois.edu/'>Electrical and Computer Engineering</a>, <a href='https://illinois.edu'>UIUC</a>.
 
