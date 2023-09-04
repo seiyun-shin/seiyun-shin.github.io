@@ -8,10 +8,15 @@ nav_order: 5
 ---
 
 In UIUC:
+
 ECE313: Probability with Engineering Applications (Spring 2022) nomination for Olesen Award for excellence in undergraduate teaching
+
 ECE563: Information Theory (Fall 2021)
 
 In KAIST:
+
 EE321: Communication Engineering (Spring 2014)
+
 EE623: Information Theory (Fall 2013)
-EE202: Signals and Systems (Fall 2011) 
+
+EE202: Signals and Systems (Fall 2011)

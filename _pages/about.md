@@ -23,5 +23,6 @@ Hello everyone! I am a Ph.D. student in the ECE department at University of Illi
 
 I also spent time in [Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) (ETRI), a government-funded research institute in South Korea, as part of my mandatory military service.
 
-Research Interests:
+<h2>Research Interests</h2>
+
 I seek to gain insight into fundamental problems that are practically relevant. My research interests lie at the intersection of theoretical machine learning, algorithm design, and information theory. Within these disciplines, I seek to achieve two closely-related goals. One is to characterize the fundamental limits of the amount and quality of data required for reliable estimation and learning; the other is to develop computationally efficient algorithms that can provably achieve these limits.. Specifically, I am working on establishing sample complexity in GraphML (e.g., graph neural networks), instance-adaptive algorithms, and multi-armed bandits.
