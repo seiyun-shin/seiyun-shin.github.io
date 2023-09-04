@@ -10,6 +10,7 @@
   year={2023},
   month={May},
   publisher={},
+  selected = [true],
   abstract = {Graph Neural Networks (GNNs) are a powerful class of machine learning models with applications in recommender systems, drug discovery, social network analysis, and computer vision. One challenge with their implementation is that GNNs often take large-scale graphs as inputs, which imposes significant computational/storage costs in the training and testing phases. In particular, the message passing operations of a GNN require multiplication of the graph adjacency matrix $A \in \R^{n \times n}$ and the data matrix $X \in \R^{n \times d}$, and the $O(n^2 d)$ time complexity can be prohibitive for large $n$. Thus, a natural question is whether it is possible to perform the GNN operations in (quasi-)linear time by avoiding the full computation of $A X$. To study this question, we consider the setting of a regression task on a two-layer Linear Graph Convolutional Network (GCN). We develop an efficient training algorithm based on (1) performing node subsampling, (2) estimating the leverage scores of $A X$ based on the subsampled graph, and (3) performing leverage score sampling on $A X$. We show that our proposed scheme learns the regression model observing only $O(nd\eps^{-2}\log n)$ entries of $A$ in time $O(nd^2 \eps^{-2}\log n)$, with the guarantee that the learned weights deviate by at most $\epsilon$ under the $\ell_2$ norm from the model learned using the entire adjacency matrix $A$. We present empirical results for regression problems on two real-world graphs and show that our algorithm significantly outperforms other baseline sampling strategies that exploit the same number of observations.}
 }
 
@@ -25,6 +26,7 @@
   publisher =    {PMLR},
   pdf = 	 {https://proceedings.mlr.press/v201/shin23a/shin23a.pdf},
   url = 	 {https://proceedings.mlr.press/v201/shin23a.html},
+  selected = [true],
   abstract = 	 {Computing the dominant eigenvectors of a matrix $A$ has many applications, such as principal component analysis, spectral embedding, and PageRank. However, in general, this task relies on the complete knowledge of the matrix $A$, which can be too large to store or even infeasible to observe in many applications, e.g., large-scale social networks. Thus, a natural question is how to accurately estimate the eigenvectors of $A$ when only partial observations can be made by sampling entries from $A$. To this end, we propose the Adaptive Power Method (\textsc{APM}), a variant of the well-known power method. At each power iteration, \textsc{APM} adaptively selects a subset of the entries of $A$ to observe based on the current estimate of the top eigenvector. We show that \textsc{APM} can estimate the dominant eigenvector(s) of $A$ with squared error at most $\epsilon$ by observing roughly $O(n\epsilon^{-2} \log^2 (n/\epsilon))$ entries of an $n\times n$ matrix. We present empirical results for the problem of eigenvector centrality computation on two real-world graphs and show that \textsc{APM} significantly outperforms a non-adaptive estimation algorithm using the same number of observations. Furthermore, in the context of eigenvector centrality, \textsc{APM} can also adaptively allocate the observation budget to selectively refine the estimate of nodes with high centrality scores in the graph.}
 }
 
@@ -38,6 +40,7 @@
   pdf = {https://arxiv.org/abs/2102.02472.pdf},
   url = {https://arxiv.org/abs/2102.02472},
   organization={IEEE},
+  selected = [true],
   abstract = {Structured stochastic multi-armed bandits provide accelerated regret rates over the standard unstructured bandit problems. Most structured bandits, however, assume the knowledge of the structural parameter such as Lipschitz continuity, which is often not available. To cope with the latent structural parameter, we consider a transfer learning setting in which an agent must learn to transfer the structural information from the prior tasks to the next task, which is inspired by practical problems such as rate adaptation in wireless link. We propose a novel framework to provably and accurately estimate the Lipschitz constant based on previous tasks and fully exploit it for the new task at hand. We analyze the efficiency of the proposed framework in two folds: (i) the sample complexity of our estimator matches with the information-theoretic fundamental limit; and (ii) our regret bound on the new task is close to that of the oracle algorithm with the full knowledge of the Lipschitz constant under mild assumptions. Our analysis reveals a set of useful insights on transfer learning for latent Lipschitz constants such as the fundamental challenge a learner faces. Our numerical evaluations confirm our theoretical findings and show the superiority of the proposed framework compared to baselines.}
 }
 
@@ -50,6 +53,7 @@
   pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9053486},
   url = 	 {https://ieeexplore.ieee.org/document/9053486},
   organization={IEEE},
+  selected = [true],
   abstract = {Motivated by DNA-based data storage, we study the erasure shuffling channel. This channel takes as input multiple strings, which are passed through an erasure channel and then shuffled out of order. We show that the capacity of this channel, for a large set of channel parameters, is given by the capacity of the binary erasure channel, $C_{BEC}$, minus a term that captures the loss of ordering information due to shuffling.}
 }
 
@@ -65,7 +69,8 @@
   pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8804224},
   url = {https://ieeexplore.ieee.org/document/8804224},
   abstract = {We explore the role of interaction for the problem of reliable computation over two-way multicast networks. Specifically we consider a four-node network in which two nodes wish to compute a modulo-sum of two independent Bernoulli sources generated from the other two, and a similar task is done in the other direction. The main contribution of this work lies in the characterization of the computation capacity region for a deterministic model of the network via a novel transmission scheme. One consequence of this result is that, not only we can get an interaction gain over the one-way non-feedback computation capacities, but also we can sometimes get all the way to perfect-feedback computation capacities simultaneously in both directions. This result draws a parallel with the recent result developed in the context of two-way interference channels.},
-  publisher={IEEE}
+  publisher={IEEE},
+  selected = [true]
 }
 
 @inproceedings{shin2017capacity,
@@ -75,6 +80,7 @@
   pages={125--133},
   year={2017},
   organization={IEEE},
+  selected = [true],
   pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8262728},
   url = {https://ieeexplore.ieee.org/document/8262728},
   abstract = {We explore the role of interaction for the problem of reliable computation over two-way multicast networks. Specifically we consider a four-node network in which two nodes wish to compute a modulo-sum of two independent Bernoulli sources generated from the other two, and a similar task is done in the other direction. The main contribution of this work lies in the characterization of the computation capacity region for a deterministic model of the network via a novel transmission scheme. One consequence of this result is that not only we can get an interaction gain over the one-way non-feedback computation capacities, we can sometime get all the way to perfect-feedback computation capacities simultaneously in both directions. This result draws a parallel with the recent result developed in the context of two-way interference channels.}
