@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: I have taught the following courses as a teaching assistant (TA) in my undergraduate and graduate years:
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 In UIUC:
