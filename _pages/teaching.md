@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
+
 I have taught the following courses as a teaching assistant (TA) in my undergraduate and graduate years:
 
 
