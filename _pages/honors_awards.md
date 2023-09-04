@@ -12,6 +12,7 @@ nav_order: 2
 - Nominated Olesen Award for Excellence in Undergraduate Teaching 2022
 
 - Awarded Kwanjeong Educational Foundation Fellowship 2019–Present
+
 - Awarded Academic Excellence Scholarship from KAIST EE Department 2009–2011
 
 - Awarded Korea Government Fellowship 2008–2015
