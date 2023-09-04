@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. seiyuns2@illinois.edu.
 
 profile:
   align: right
-  image: SeiyunShin_Profile.jpg
+  image: SeiyunShin_Profile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>323 Coordinated Science Laboratory/3405 Siebel Center for Computer Science </p>
