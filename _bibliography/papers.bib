@@ -26,6 +26,29 @@
   url = 	 {https://proceedings.mlr.press/v201/shin23a.html},
   abstract = 	 {Computing the dominant eigenvectors of a matrix $A$ has many applications, such as principal component analysis, spectral embedding, and PageRank. However, in general, this task relies on the complete knowledge of the matrix $A$, which can be too large to store or even infeasible to observe in many applications, e.g., large-scale social networks. Thus, a natural question is how to accurately estimate the eigenvectors of $A$ when only partial observations can be made by sampling entries from $A$. To this end, we propose the Adaptive Power Method (\textsc{APM}), a variant of the well-known power method. At each power iteration, \textsc{APM} adaptively selects a subset of the entries of $A$ to observe based on the current estimate of the top eigenvector. We show that \textsc{APM} can estimate the dominant eigenvector(s) of $A$ with squared error at most $\epsilon$ by observing roughly $O(n\epsilon^{-2} \log^2 (n/\epsilon))$ entries of an $n\times n$ matrix. We present empirical results for the problem of eigenvector centrality computation on two real-world graphs and show that \textsc{APM} significantly outperforms a non-adaptive estimation algorithm using the same number of observations. Furthermore, in the context of eigenvector centrality, \textsc{APM} can also adaptively allocate the observation budget to selectively refine the estimate of nodes with high centrality scores in the graph.}
 }
+
+
+@inproceedings{park2021transfer,
+  title={Transfer Learning in Bandits with Latent Continuity},
+  author={Park, Hyejin and Shin, Seiyun and Jun, Kwang-Sung and Ok, Jungseul},
+  booktitle={2021 IEEE International Symposium on Information Theory (ISIT)},
+  pages={1463--1468},
+  year={2021},
+  url = {https://arxiv.org/abs/2102.02472}
+  organization={IEEE}
+}
+
+@inproceedings{shin2020capacity,
+  title={Capacity of the erasure shuffling channel},
+  author={Shin, Seiyun and Heckel, Reinhard and Shomorony, Ilan},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={8841--8845},
+  year={2020},
+  url = 	 {https://ieeexplore.ieee.org/document/9053486}
+  organization={IEEE}
+}
+
+
 @article{shin2019two,
   title={Two-way function computation},
   author={Shin, Seiyun and Suh, Changho},
@@ -37,20 +60,11 @@
   publisher={IEEE}
 }
 
-@inproceedings{shin2020capacity,
-  title={Capacity of the erasure shuffling channel},
-  author={Shin, Seiyun and Heckel, Reinhard and Shomorony, Ilan},
-  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={8841--8845},
-  year={2020},
-  organization={IEEE}
-}
-
-@inproceedings{park2021transfer,
-  title={Transfer Learning in Bandits with Latent Continuity},
-  author={Park, Hyejin and Shin, Seiyun and Jun, Kwang-Sung and Ok, Jungseul},
-  booktitle={2021 IEEE International Symposium on Information Theory (ISIT)},
-  pages={1463--1468},
-  year={2021},
+@inproceedings{shin2017capacity,
+  title={Capacity of a two-way function multicast channel},
+  author={Shin, Seiyun and Suh, Changho},
+  booktitle={2017 55th Annual Allerton Conference on Communication, Control, and Computing (Allerton)},
+  pages={125--133},
+  year={2017},
   organization={IEEE}
 }
