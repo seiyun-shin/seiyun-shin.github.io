@@ -9,7 +9,7 @@ profile:
   image: SeiyunShin_Profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>[Email](mailto:seiyuns2@illinois.edu)</p>, 
+    <p>[Email](seiyuns2@illinois.edu)</p>, 
     <p>323 Coordinated Science Laboratory / 3405 Siebel Center for Computer Science </p>
     <p>1308 W Main Street MC 228 / 201 North Goodwin Avenue MC 258</p>
     <p>Urbana, Illinois 61801</p>
