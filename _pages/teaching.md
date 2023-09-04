@@ -12,7 +12,9 @@ I have taught the following courses as a teaching assistant (TA) in my undergrad
 
 In UIUC:
 
-- ECE313: Probability with Engineering Applications (Spring 2022) nomination for Olesen Award for excellence in undergraduate teaching
+- ECE313: Probability with Engineering Applications (Spring 2022)
+
+    - Nomination for Olesen Award for excellence in undergraduate teaching
 
 - ECE563: Information Theory (Fall 2021)
 
