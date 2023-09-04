@@ -2,21 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I have taught the following courses as a teaching assistant (TA) in my undergraduate and graduate years.
+description:
 nav: true
 nav_order: 2
 ---
+I have taught the following courses as a teaching assistant (TA) in my undergraduate and graduate years:
+
 
 In UIUC:
 
-ECE313: Probability with Engineering Applications (Spring 2022) nomination for Olesen Award for excellence in undergraduate teaching
+- ECE313: Probability with Engineering Applications (Spring 2022) nomination for Olesen Award for excellence in undergraduate teaching
 
-ECE563: Information Theory (Fall 2021)
+- ECE563: Information Theory (Fall 2021)
 
 In KAIST:
 
-EE321: Communication Engineering (Spring 2014)
+- EE321: Communication Engineering (Spring 2014)
 
-EE623: Information Theory (Fall 2013)
+- EE623: Information Theory (Fall 2013)
 
-EE202: Signals and Systems (Fall 2011)
+- EE202: Signals and Systems (Fall 2011)
