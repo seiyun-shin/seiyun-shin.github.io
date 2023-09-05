@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /honors_awards/
+permalink: /honors-awards/
 title: Honors and Awards
 description:
 nav: true
