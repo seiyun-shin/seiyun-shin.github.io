@@ -211,7 +211,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - _news/announcement_ref.md
-  - _pages/repositories.md
+  # - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
