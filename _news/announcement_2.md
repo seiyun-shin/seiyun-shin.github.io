@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-02-19 10:43:00-0000
+date: 2023-01-30 10:43:00-0500
 inline: true
 related_posts: false
 ---
 
-Presenting our work on Adaptive Power Method at <a href="http://algorithmiclearningtheory.org/alt2023/accepted-papers/">ALT '23!</a> Do attend!
+Serving as a reviewer for ICML '23.

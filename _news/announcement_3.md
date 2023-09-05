@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-03-27 02:06:00-0000
+date: 2023-02-19 10:43:00-0000
 inline: true
 related_posts: false
 ---
 
-Serving as a reviewer for NeurIPS '23.
+Presenting our work on Adaptive Power Method at <a href="http://algorithmiclearningtheory.org/alt2023/accepted-papers/">ALT '23!</a> Do attend!
