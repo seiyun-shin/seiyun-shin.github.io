@@ -15,7 +15,7 @@
       institution: University of Illinois at Urbana-Champaign (UIUC)
       year: Current
       description:
-        - > Advisor: <a href='http://www.ilanshomorony.com/'>Ilan Shomorony</a> and <a href='https://hanzhaoml.github.io/'>Han Zhao</a>
+        - Advisor&#x20;0 <a href='http://www.ilanshomorony.com/'>Ilan Shomorony</a> and <a href='https://hanzhaoml.github.io/'>Han Zhao</a>
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -25,7 +25,7 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2015
       description:
-        - > Advisor: <a href='http://csuh.kaist.ac.kr/'>Changho Suh</a>
+        - Advisor&#x20;0 <a href='http://csuh.kaist.ac.kr/'>Changho Suh</a>
       #   - Description 2.
     - title: B.S. in Mathematics and Electrical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST)
