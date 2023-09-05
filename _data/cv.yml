@@ -108,5 +108,5 @@
   contents:
     - Brewing coffee (having <a href='https://github.com/seiyun-shin/seiyun-shin.github.io/blob/master/assets/img/SeiyunShin_Barista.png'>Barista certificates</a> from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
     - Running
-    - Swimming
-    - <a href="{{ Barista certificates | prepend: 'assets/img/SeiyunShin_Barista.png' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+    - Swimmings
+    - ![Barista certificates](assets/img/SeiyunShin_Barista.png)
