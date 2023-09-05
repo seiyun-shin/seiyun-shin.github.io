@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting our work on Adaptive Power Method at <a href="http://algorithmiclearningtheory.org/alt2023/accepted-papers/">ALT '23</a> in Singapore. Do attend!
+Presenting our work on Adaptive Power Method at <a href="http://algorithmiclearningtheory.org/alt2023/accepted-papers/">ALT '23</a> at NUS in Singapore. Do attend!
