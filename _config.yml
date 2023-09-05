@@ -210,7 +210,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  # - _news/announcement_ref.md
 keep_files:
   - CNAME
   - .nojekyll
