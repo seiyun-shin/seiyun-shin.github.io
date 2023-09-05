@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Seiyun Shin
-    - name: Date of Birth
-      value: 23rd September 1990
+    # - name: Date of Birth
+    #   value: 23rd September 1990
     - name: Languages
       value: English, Korean
 
