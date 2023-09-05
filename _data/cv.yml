@@ -15,7 +15,7 @@
       institution: University of Illinois at Urbana-Champaign (UIUC)
       year: Current
       description:
-        - Advisor: [Ilan Shomorony](http://www.ilanshomorony.com/) and [Han Zhao](https://hanzhaoml.github.io/)
+        - Advisor: <a href='http://www.ilanshomorony.com/'>Ilan Shomorony</a> and <a href='https://hanzhaoml.github.io/'>Han Zhao</a>
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -25,7 +25,7 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2015
       description:
-        - Advisor: [Changho Suh](http://csuh.kaist.ac.kr/)
+        - Advisor: <a href='http://csuh.kaist.ac.kr/'>Changho Suh</a>
       #   - Description 2.
     - title: B.S. in Mathematics and Electrical Engineering (double-major)
       institution: Korea Advanced Institute of Science and Technology (KAIST)
@@ -88,11 +88,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: GraphML
       items: 
         - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Generalization
+    - title: Multi-armed Bandits
       items:
         - Description 1.
         - Description 2.
@@ -100,4 +100,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Brewing coffee (having Barista certificates), Running, and Swimming.
