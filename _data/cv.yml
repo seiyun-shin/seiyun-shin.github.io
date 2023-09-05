@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Seiyun Shin
+      value: Seiyun Shin (신세윤)
     # - name: Date of Birth
     #   value: 23rd September 1990
     - name: Languages
@@ -85,10 +85,10 @@
 #       items: 
 #         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: GraphML
+    - title: Graph Machine Learning
       items: 
         - Inference and Learning from Partially Observed Graphs
         - Generalization
