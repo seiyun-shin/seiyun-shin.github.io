@@ -91,7 +91,7 @@
   contents:
     - title: Graph Machine Learning
       items: 
-        - Inference and Learning from Partially Observed Graphs
+        - Inference and Learning from Partially Observed Graph Data
         - Generalization
     - title: Trustworty Machine Learning
       items:
