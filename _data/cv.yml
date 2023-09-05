@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Illinois at Urbana-Champaign
+    - title: Ph.D.
+      institution: University of Illinois at Urbana-Champaign (UIUC)
       year: 2019
       description:
         - Description 1.
@@ -21,8 +21,8 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    - title: M.S.
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 1900
       description:
         - Description 1.
