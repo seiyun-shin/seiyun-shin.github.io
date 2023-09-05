@@ -106,6 +106,6 @@
 - title: Hobbies
   type: list
   contents:
-    - Brewing coffee (having [Barista certificates](SeiyunShin_Barista.jpeg) from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
+    - Brewing coffee (having ![Alt text](/relative/path/to/SeiyunShin_Barista.jpeg?raw=true "Barista certificates") from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
     - Running
     - Swimming
