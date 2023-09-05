@@ -15,7 +15,7 @@
       institution: University of Illinois at Urbana-Champaign (UIUC)
       year: Current
       description:
-        # - Description 1.
+        - Advisor: [Ilan Shomorony](http://www.ilanshomorony.com/) and [Han Zhao](https://hanzhaoml.github.io/)
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -23,15 +23,15 @@
         #     - Sub-description 2.
     - title: M.S. in Electrical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year:
-      # description:
-      #   - Description 1.
+      year: 2015
+      description:
+        - Advisor: [Changho Suh](http://csuh.kaist.ac.kr/)
       #   - Description 2.
     - title: B.S. in Mathematics and Electrical Engineering (double-major)
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year:
-      # description:
-      #   - Description 1.
+      year: 2012
+      description:
+        - <em> Summa Cum Laude </em>
       #   - Description 2.
 
 # - title: Experience
