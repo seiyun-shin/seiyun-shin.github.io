@@ -27,7 +27,7 @@
       description:
         - Advisor&#58; <a href='http://csuh.kaist.ac.kr/'>Changho Suh</a>
       #   - Description 2.
-    - title: B.S. in Mathematics and Electrical Engineering
+    - title: B.S. in Electrical Engineering and Mathematics
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2013
       description:
@@ -106,6 +106,6 @@
 - title: Hobbies
   type: list
   contents:
-    - Brewing coffee (having ![Alt Barista certificates](https://github.com/seiyun-shin/seiyun-shin.github.io/blob/master/assets/img/SeiyunShin_Barista.jpeg) from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
+    - Brewing coffee (having ![Alt Barista certificates](https://github.com/seiyun-shin/seiyun-shin.github.io/assets/img/blob/master/SeiyunShin_Barista.jpeg) from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
     - Running
     - Swimming
