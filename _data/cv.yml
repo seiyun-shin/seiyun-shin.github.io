@@ -5,6 +5,10 @@
       value: Seiyun Shin (신세윤)
     # - name: Date of Birth
     #   value: 23rd September 1990
+    - name: Email
+      value: <a href='mailto:seiyuns2@illinois.edu'>seiyuns2@illinois.edu</a>
+    - name: Webpage
+      value: <a href='seiyun-shin.github.io'>seiyun-shin.github.io</a>
     - name: Languages
       value: English (fluent), Korean (native)
 
