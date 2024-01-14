@@ -6,7 +6,7 @@ subtitle: <a href='https://ece.illinois.edu/'>Electrical and Computer Engineerin
 
 profile:
   align: right
-  image: SeiyunShin_Profile.png
+  image: SeiyunShin_Profile2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <a href='mailto:seiyuns2@illinois.edu'>Email: seiyuns2 at illinois dot edu</a>
