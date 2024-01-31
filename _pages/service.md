@@ -15,6 +15,8 @@ I have served as a reviewer for the following conferences and journals:
 
 - Reviewer for International Conference on Learning Representations (ICLR)
 
+- Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)
+
 - Reviewer for IEEE Transactions on Information Theory
 
 - Reviewer for IEEE International Symposium on Information Theory (ISIT)
