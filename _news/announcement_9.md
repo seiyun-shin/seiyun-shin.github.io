@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Giving an invited talk at <a href="https://wiki.illinois.edu/wiki/spaces/viewspace.action?key=MLReadingGroup"> ML Reading Group Seminar</a> in UIUC!
+Giving an invited talk at <a href="https://publish.illinois.edu/ml-seminar/"> ML Reading Group Seminar</a> in UIUC!
