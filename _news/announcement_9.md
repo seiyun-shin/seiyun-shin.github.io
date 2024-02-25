@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Giving an invited talk at <a href="https://publish.illinois.edu/ml-seminar/"> ML Reading Group Seminar</a> in UIUC!
+Giving an invited talk at <a href="https://publish.illinois.edu/ml-seminar/"> UIUC Machine Learning Seminar</a>!
