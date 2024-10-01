@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting <a href="https://www.umass.edu/"> UMass Amherst</a> under the supervision of <a href="https://people.cs.umass.edu/~cmusco/"> Prof. Cameron Musco</a>
+Visiting <a href="https://www.umass.edu/"> UMass Amherst</a> under the supervision of <a href="https://people.cs.umass.edu/~cmusco/"> Prof. Cameron Musco</a>.
