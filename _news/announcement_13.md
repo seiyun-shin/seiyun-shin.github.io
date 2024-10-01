@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as a reviewer for AISTATS '25.
+Serving as a reviewer for AISTATS '24.
