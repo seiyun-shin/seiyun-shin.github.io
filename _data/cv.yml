@@ -2,96 +2,115 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Seiyun Shin (신세윤)
+    # - name: Date of Birth
+    #   value: 23rd September 1990
+    - name: Email
+      value: <a href='mailto:seiyuns2@illinois.edu'>seiyuns2@illinois.edu</a>
+    - name: Webpage
+      value: <a href='seiyun-shin.github.io'>seiyun-shin.github.io</a>
     - name: Languages
-      value: English, German
+      value: English (fluent), Korean (native)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: University of Illinois Urbana-Champaign (UIUC)
+      year: Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor&#58; <a href='http://www.ilanshomorony.com/'>Ilan Shomorony</a> and <a href='https://hanzhaoml.github.io/'>Han Zhao</a>
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: M.S. in Electrical Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - Advisor&#58; <a href='http://csuh.kaist.ac.kr/'>Changho Suh</a>
+      #   - Description 2.
+    - title: B.S. in Electrical Engineering and Mathematics
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - <em> Summa Cum Laude </em>
+        - Double major
+      #   - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Academic Interests
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Graph Machine Learning
+      items: 
+        - Inference and Learning from Partially Observed Graph Data
+        - Generalization
+    - title: Trustworty Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Fairness
+        - Robustness
+        - Differential Privacy
+    - title: Multi-armed Bandits
+      # items:
+      #   - Description 1.
+      #   - Description 2.
 
-- title: Other Interests
+- title: Hobbies
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Brewing coffee (having <a href='https://github.com/seiyun-shin/seiyun-shin.github.io/blob/master/assets/img/SeiyunShin_Barista.png'>Barista certificates</a> from <a href='https://sca.coffee/'>Specialty Coffee Association</a>)
+    - Running
+    - Swimming
+    # - ![SeiyunShin_Barista](SeiyunShin_Barista.png)
