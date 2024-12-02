@@ -12,7 +12,7 @@ profile:
     <a href='mailto:seiyuns2@illinois.edu'>Email: seiyuns2 at illinois dot edu</a>
     <p>323 Coordinated Science Laboratory / 3405 Siebel Center for Computer Science </p>
     <p>1308 W Main Street MC 228 / 201 North Goodwin Avenue MC 258</p>
-    <p>Urbana, Illinois 61801</p>
+    <p>Urbana, IL, 61801</p>
 
 
 news: true # includes a list of news items
