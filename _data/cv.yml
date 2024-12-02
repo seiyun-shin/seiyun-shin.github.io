@@ -93,16 +93,17 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Graph Machine Learning
+    - title: Inference and Learning from Graph-structured Data
       items: 
-        - Inference and Learning from Partially Observed Graph Data
+        - Inference and Learning from Partially Observed Graph Data (in GNNs)
         - Generalization
-    - title: Trustworty Machine Learning
+    - title: Efficient Trustworty Machine Learning
       items:
-        - Fairness
+        - Differential Privacy (in covariance estimation and regression)
+        - Data attribution (to ensure transparency and accountability)
         - Robustness
-        - Differential Privacy
-    - title: Multi-armed Bandits
+        - Fairness
+    - title: Multi-armed Bandits and Online Learning
       # items:
       #   - Description 1.
       #   - Description 2.
