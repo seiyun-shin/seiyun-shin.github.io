@@ -25,8 +25,6 @@ I have served as a reviewer for the following conferences and journals:
 
 - Reviewer for International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
-- Reviewer for IEEE Wireless Communications and Networking Conference (WCNC)
-
 - General Chair for the Coordinated Science Laboratory (CSL) Student Conference 2023 in UIUC
 
 - Machine Learning Session Chair for the CSL Student Conference 2023
