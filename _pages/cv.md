@@ -1,9 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_SeiyunShin.pdf
-description: For more information, you can check out my CV attached here or reach out to me on my email :)
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---

@@ -1,29 +1,25 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: <a href='https://ece.illinois.edu/'>Electrical and Computer Engineering</a>, <a href='https://illinois.edu'>UIUC</a>.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: SeiyunShin_Profile2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <a href='mailto:seiyuns2@illinois.edu'>Email: seiyuns2 at illinois dot edu</a>
-    <p>323 Coordinated Science Laboratory / 3405 Siebel Center for Computer Science </p>
-    <p>1308 W Main Street MC 228 / 201 North Goodwin Avenue MC 258</p>
-    <p>Urbana, Illinois 61801</p>
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Hello everyone! I am a Ph.D. student in the ECE department at University of Illinois Urbana Champaign. I am under the supervision of [Prof. Ilan Shomorony](http://www.ilanshomorony.com/) and [Prof. Han Zhao](https://hanzhaoml.github.io/). My research is partly supported by [Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr) and [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/people/groups/current-mavis-fellow/) from UIUC. Prior to joining UIUC, I received my M.S. degree from the department of Electrical Engineering at [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) (KAIST). I studied information theory under the supervision of [Prof. Changho Suh](http://csuh.kaist.ac.kr/). I also graduated Summa Cum Laude, earning B.S. degrees in Electrical Engineering and Mathematics (double-major) from KAIST.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I also spent time in [Electronics and Telecommunications Research Institute](https://www.etri.re.kr/eng/main/main.etri) (ETRI), a government-funded research institute in South Korea, as part of my mandatory military service.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-<h3>Research Interests</h3>
-
-I seek to gain insight into fundamental problems that are practically relevant. My research interests lie at the intersection of theoretical machine learning, algorithm design, and information theory. Within these disciplines, I seek to achieve two closely-related goals. One is to characterize the fundamental limits of the amount and quality of data required for reliable estimation and learning; the other is to develop computationally efficient algorithms that can provably achieve these limits. Specifically, I am working on establishing sample complexity in GraphML (e.g., graph neural networks), instance-adaptive algorithms, and multi-armed bandits.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
