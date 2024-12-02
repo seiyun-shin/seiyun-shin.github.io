@@ -23,7 +23,8 @@
   journal={IEEE Transactions on Information Theory},
   year={2024},
   selected = {true},
-  publisher={IEEE}
+  publisher={IEEE},
+  abstract = {Structured stochastic multi-armed bandits provide accelerated regret rates over the standard unstructured bandit problems. Most structured bandits, however, assume the knowledge of the structural parameter such as Lipschitz continuity, which is often not available. To cope with the latent structural parameter, we consider a transfer learning setting in which an agent must learn to transfer the structural information from the prior tasks to the next task, which is inspired by practical problems such as rate adaptation in wireless link. We propose a novel framework to provably and accurately estimate the Lipschitz constant based on previous tasks and fully exploit it for the new task at hand. We analyze the efficiency of the proposed framework in two folds: (i) the sample complexity of our estimator matches with the information-theoretic fundamental limit; and (ii) our regret bound on the new task is close to that of the oracle algorithm with the full knowledge of the Lipschitz constant under mild assumptions. Our analysis reveals a set of useful insights on transfer learning for latent Lipschitz constants such as the fundamental challenge a learner faces. Our numerical evaluations confirm our theoretical findings and show the superiority of the proposed framework compared to baselines.}
 }
 
 @InProceedings{shin24_dynamidDBSCAN,
@@ -37,17 +38,7 @@
   month={},
   publisher={submitted to the International Conference on Artificial Intelligence and Statistics (AISTATS)},
   selected = {true},
-  abstract = {We propose a fast and dynamic algorithm for Density-Based Spatial Clustering of Applications with Noise (DBSCAN) that efficiently supports online updates. Traditional DBSCAN algorithms, designed for batch processing, become computationally expensive when applied to dynamic datasets, particularly in large-scale applications where data continuously evolves. To address this challenge, our algorithm leverages the Euler Tour Trees data structure, enabling dynamic clustering updates without the need to reprocess the entire dataset. This approach preserves a near-optimal accuracy in density estimation, as achieved by the state-of-the-art static DBSCAN method~\citep{esfandiari2021almost}. Our method achieves an improved time complexity of $O(d \log^3(n) + \log^4(n))$ for every data point insertion and deletion, where $n$ and $d$ denote the total number of updates and the data dimension, respectively. Empirical studies also demonstrate significant speedups over conventional DBSCANs in real-time clustering of dynamic datasets, while maintaining comparable or superior clustering quality.}
-}
-
-@inproceedings{esfandiari2021almost,
-  title={Almost linear time density level set estimation via dbscan},
-  author={Esfandiari, Hossein and Mirrokni, Vahab and Zhong, Peilin},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={8},
-  pages={7349--7357},
-  year={2021}
+  abstract = {We propose a fast and dynamic algorithm for Density-Based Spatial Clustering of Applications with Noise (DBSCAN) that efficiently supports online updates. Traditional DBSCAN algorithms, designed for batch processing, become computationally expensive when applied to dynamic datasets, particularly in large-scale applications where data continuously evolves. To address this challenge, our algorithm leverages the Euler Tour Trees data structure, enabling dynamic clustering updates without the need to reprocess the entire dataset. This approach preserves a near-optimal accuracy in density estimation, as achieved by the state-of-the-art static DBSCAN method. Our method achieves an improved time complexity of $O(d \log^3(n) + \log^4(n))$ for every data point insertion and deletion, where $n$ and $d$ denote the total number of updates and the data dimension, respectively. Empirical studies also demonstrate significant speedups over conventional DBSCANs in real-time clustering of dynamic datasets, while maintaining comparable or superior clustering quality.}
 }
 
 @InProceedings{shin23_graphnn,
@@ -82,19 +73,6 @@
   abstract = 	 {Computing the dominant eigenvectors of a matrix $A$ has many applications, such as principal component analysis, spectral embedding, and PageRank. However, in general, this task relies on the complete knowledge of the matrix $A$, which can be too large to store or even infeasible to observe in many applications, e.g., large-scale social networks. Thus, a natural question is how to accurately estimate the eigenvectors of $A$ when only partial observations can be made by sampling entries from $A$. To this end, we propose the Adaptive Power Method (\textsc{APM}), a variant of the well-known power method. At each power iteration, \textsc{APM} adaptively selects a subset of the entries of $A$ to observe based on the current estimate of the top eigenvector. We show that \textsc{APM} can estimate the dominant eigenvector(s) of $A$ with squared error at most $\epsilon$ by observing roughly $O(n\epsilon^{-2} \log^2 (n/\epsilon))$ entries of an $n\times n$ matrix. We present empirical results for the problem of eigenvector centrality computation on two real-world graphs and show that \textsc{APM} significantly outperforms a non-adaptive estimation algorithm using the same number of observations. Furthermore, in the context of eigenvector centrality, \textsc{APM} can also adaptively allocate the observation budget to selectively refine the estimate of nodes with high centrality scores in the graph.}
 }
 
-@article{shin2021,
-  title={Transfer Learning in Bandits with Latent Continuity},
-  author={Park, Hyejin and Shin, Seiyun and Jun, Kwang-Sung and Ok, Jungseul},
-  journal={IEEE Transactions on Information Theory},
-  year={2024},
-  pdf = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10633753},
-  url = {https://ieeexplore.ieee.org/document/10633753},
-  organization={IEEE},
-  selected = {true},
-  abstract = {Structured stochastic multi-armed bandits provide accelerated regret rates over the standard unstructured bandit problems. Most structured bandits, however, assume the knowledge of the structural parameter such as Lipschitz continuity, which is often not available. To cope with the latent structural parameter, we consider a transfer learning setting in which an agent must learn to transfer the structural information from the prior tasks to the next task, which is inspired by practical problems such as rate adaptation in wireless link. We propose a novel framework to provably and accurately estimate the Lipschitz constant based on previous tasks and fully exploit it for the new task at hand. We analyze the efficiency of the proposed framework in two folds: (i) the sample complexity of our estimator matches with the information-theoretic fundamental limit; and (ii) our regret bound on the new task is close to that of the oracle algorithm with the full knowledge of the Lipschitz constant under mild assumptions. Our analysis reveals a set of useful insights on transfer learning for latent Lipschitz constants such as the fundamental challenge a learner faces. Our numerical evaluations confirm our theoretical findings and show the superiority of the proposed framework compared to baselines.}
-}
-
-
 @inproceedings{park2021transfer,
   title={Transfer Learning in Bandits with Latent Continuity},
   author={Park, Hyejin and Shin, Seiyun and Jun, Kwang-Sung and Ok, Jungseul},
@@ -120,7 +98,6 @@
   selected = {true},
   abstract = {Motivated by DNA-based data storage, we study the erasure shuffling channel. This channel takes as input multiple strings, which are passed through an erasure channel and then shuffled out of order. We show that the capacity of this channel, for a large set of channel parameters, is given by the capacity of the binary erasure channel, $C_{BEC}$, minus a term that captures the loss of ordering information due to shuffling.}
 }
-
 
 @article{shin2019two,
   title={Two-way Function Computation},
