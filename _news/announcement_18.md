@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on Dynamic DBSCAN with Euler Tour Sequences is accepted to <a href="https://aistats.org/aistats2025/">AISTATS '25</a>!!
+Our work on Dynamic DBSCAN with Euler Tour Sequences is accepted to <a href="https://aistats.org/aistats2025/">AISTATS '25</a>!
