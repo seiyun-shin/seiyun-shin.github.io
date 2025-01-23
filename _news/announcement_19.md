@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepting the summer internship offer from Adobe Research. Looking forward to join the team!
+Will be joining Adobe Research as a Research Scientist Intern this summer. Looking forward to it!
